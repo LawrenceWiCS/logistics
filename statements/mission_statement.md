@@ -27,8 +27,8 @@ Officers will be elected during the month of May by a majority vote of those pre
  
 #### Section Three.  
 Duties of each officer:
-President – will preside over all meetings, conduct all official organizational business. 
-VP Communications – also presides at meetings and conducts all official organizational business when the President assigns them to do so, or in the President’s absence. will keep official minutes and records and is required to distribute and process communications among members.
+President – will preside over all meetings, conduct all official organizational business. <br>
+VP Communications – also presides at meetings and conducts all official organizational business when the President assigns them to do so, or in the President’s absence. will keep official minutes and records and is required to distribute and process communications among members.<br>
 VP Finance –  will be responsible for keeping accurate records of all financial matters.
  
  
@@ -51,10 +51,4 @@ The faculty/staff advisor will never have control of the organization or its fin
  
 ### ARTICLE VII – Statement of Compliance with Campus Regulations
 This organization shall comply with all university and campus policies and regulations and local, state, and federal laws.
- 
- 
- 
- 
- 
- 
  
